@@ -15,6 +15,16 @@ MENTOR : NEELA SANTOSH
 
 # INTERACTIVE-QUIZ-APPLICATION
 
+OUTPUT:--
+
+![Image](https://github.com/user-attachments/assets/497bdb05-0ee2-4d0c-bb69-dcc228dcd38a)
+
+
+![Image](https://github.com/user-attachments/assets/5ab66b3b-75b6-43b8-bf59-72f19a72473c)
+
+
+![Image](https://github.com/user-attachments/assets/6b717fde-a594-4580-9118-944901fede24)
+
 Immersive Quiz App is a dynamic, interactive web application that lets users test their knowledge across multiple topics including JavaScript, HTML, CSS, General Knowledge, Science, and History. The app features instant feedback, answer explanations, result tracking, and a beautiful, animated user interface.
 
 Features
